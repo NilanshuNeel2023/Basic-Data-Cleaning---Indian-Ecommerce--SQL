@@ -40,7 +40,7 @@ The dataset having certain issue which is given below-
 - Alter Table
 - Update
 - Where
-- Trimp
+- Trim
 - RegEXP
 
 ## Final step

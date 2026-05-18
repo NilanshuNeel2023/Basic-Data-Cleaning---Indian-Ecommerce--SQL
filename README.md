@@ -7,7 +7,7 @@ The objetive of this project to clean the dataset with using basic SQL function.
 The dataset having certain issue which is given below-
 - Duplicate Data
 - Null Values
-- Invalid Formatt
+- Invalid Format
 - Extra spaces in columns
 - Spelling mistake
 - Multiple Date format
@@ -22,7 +22,7 @@ The dataset having certain issue which is given below-
 - Query 2. Find the Empty OR null values in dataset
 - Query 3. Find Duplicate value in Entire Dataset
 - Query 4. Checking issue in Other Columns (Email, Phone, Price, Quantity, Rating)
-- Query 5. Bussiness Logic
+- Query 5. Business Logic
 - Query 6 - 7. Date Formatt in Delivery & Order Date
 - Query 8 - 9. Fix Date Formatt from Delivery & Order Date
 - Query 10 - 12. Remove Duplicates 
@@ -36,7 +36,7 @@ The dataset having certain issue which is given below-
 ## SQL concept used:
 - Group by
 - Having
-- Detele
+- DELETE
 - Alter Table
 - Update
 - Where
